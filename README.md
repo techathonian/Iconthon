@@ -28,3 +28,8 @@ Figma Link (You can only view)
 - Text Formatting
 - Transportation 
 - Travel
+# Guidlines
+## Grid
+Use 24px as the icon's base measuremnet guidelines.
+## Margin
+Use a margin of 2px to ensure consistency and to make room for icons.
