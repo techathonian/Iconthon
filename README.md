@@ -8,3 +8,23 @@ Wait for this project maintainer to invite you to start contributing
 
 Figma Link (You can only view) 
 **https://www.figma.com/team_invite/redeem/6CvhngDPU8aLzB8jwBKta5**
+
+# Categories
+- Home
+- UI Actions
+- Activites
+- Andriod 
+- Audio and Video
+- Brand
+- Business and Payments
+- Common actions
+- Communication
+- Hardware
+- Household
+- Maps
+- Photos and Images
+- Privacy and Security
+- Social
+- Text Formatting
+- Transportation 
+- Travel
