@@ -33,3 +33,7 @@ Figma Link (You can only view)
 Use 24px as the icon's base measuremnet guidelines.
 ## Margin
 Use a margin of 2px to ensure consistency and to make room for icons.
+## Stroke style
+Use Join Rounded for stroke style
+## Stroke width
+Use 2px for stroke width
