@@ -4,7 +4,7 @@ Open source Techathon  Icon pack for any industry.
 To contribute edit this readme and add your figma email in the list of contributors then scroll down and click Commit Changes.
 Wait for this project maintainer to invite you to start contributing
 
-### List Of Contributors (Onlu product designers) devs will have to fork it to make contributions later
+### List Of Contributors (Only product designers) devs will have to fork it to make contributions later
 - lamodots@gmail.com
 
 Figma Link (You can only view) 
